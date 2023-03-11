@@ -1,2 +1,2 @@
 # Alıştırma
-![image/screenshot.png](Anasayfa)
+![./image/screenshot.png](Anasayfa)
