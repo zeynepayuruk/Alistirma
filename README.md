@@ -1,0 +1,2 @@
+# Alıştırma
+![screenshot.png](Anasayfa)
